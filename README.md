@@ -1,4 +1,4 @@
-## REACT JS - CAT API 
+## REACT JS - CAT APP
 
 We can search cat images based on cat image category, API Endpoint: https://api.thecatapi.com/v1
 
